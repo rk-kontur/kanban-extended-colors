@@ -1,0 +1,10 @@
+{
+  "id": "kanban-settings",
+  "name": "Kanban Settings",
+  "version": "1.0.0",
+  "minAppVersion": "0.12.0",
+  "description": "Customize Kanban board appearance with colors, opacity, and fixed height. Requires two pölugins: Kanban and Colored Tags Wrangler",
+  "author": "rk-kontur",
+  "authorUrl": "With the help of Artificial Intelligence",
+  "main": "main.js"
+}
