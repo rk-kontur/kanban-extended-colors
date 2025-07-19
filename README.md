@@ -1,11 +1,11 @@
 # Kanban Extended Colors
 
-This plugin extends the capabilities of three Obsidian plugins:
+This plugin extends the capabilities of two Obsidian plugins:
 
 1. Kanban https://github.com/mgmeyers/obsidian-kanban
 2. Colored Tags Wrangler https://github.com/code-of-chaos/obsidian-colored_tags_wrangler
 
-## What the other three plugins do:
+## What the other two plugins do:
 
 1. **Kanban** allows Obsidian unsers to create Kanban lanes and cards. They can hold tasks that can be ticked off or content that can be rearranged by drag and drop. It can also display frontmatter content inside the cards.
 2. **Colored Tags Wrangler** allows to define colors based on tags. These can then be used in Kanban and a few other areas of Obsidian.
