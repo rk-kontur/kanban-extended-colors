@@ -87,9 +87,10 @@ I personally use the combination of **Kanban** and **Colored Tags Wrangler** for
 
 <img width="3609" height="2131" alt="grafik" src="https://github.com/user-attachments/assets/d813cb93-a836-44e7-aec3-4f7c0f732511" />
 
+I created this plugin for seeing the tags colors more easily and clearly. It helps me a lot with my workflow and I thought it might maybe help others.
+
 ## Supported Languages
 
 - English
 - German
 
-I created this plugin for seeing the tags colors more easily and clearly. It helps me a lot with my workflow and I thought it might maybe help others.
