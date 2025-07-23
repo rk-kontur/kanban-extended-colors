@@ -94,3 +94,8 @@ I created this plugin for seeing the tags colors more easily and clearly. It hel
 - English
 - German
 
+## Supported Operating Systems
+
+- Windows
+- Android
+
